@@ -141,3 +141,6 @@
 /test-driver
 /thread_dealloc_unittest
 /thread_dealloc_unittest.exe
+gperftools.VC.VC.opendb
+gperftools.VC.db
+.vs/gperftools/v14/.suo
