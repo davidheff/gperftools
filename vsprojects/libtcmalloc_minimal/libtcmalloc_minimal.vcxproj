@@ -397,6 +397,9 @@
     <ClInclude Include="..\..\src\windows\port.h" />
     <ClInclude Include="..\..\src\windows\preamble_patcher.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="libtcmalloc_minimal.rc" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

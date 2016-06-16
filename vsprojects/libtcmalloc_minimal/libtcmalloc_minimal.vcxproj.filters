@@ -269,4 +269,7 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="libtcmalloc_minimal.rc" />
+  </ItemGroup>
 </Project>

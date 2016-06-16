@@ -148,3 +148,4 @@ Debug/
 vsprojects/libtcmalloc_minimal/Release/
 vsprojects/libtcmalloc_minimal/x64/Release/
 Release/
+vsprojects/libtcmalloc_minimal/libtcmalloc_minimal.vcxproj.user
