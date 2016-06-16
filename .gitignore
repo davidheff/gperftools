@@ -144,3 +144,7 @@
 gperftools.VC.VC.opendb
 gperftools.VC.db
 .vs/gperftools/v14/.suo
+Debug/
+vsprojects/libtcmalloc_minimal/Release/
+vsprojects/libtcmalloc_minimal/x64/Release/
+Release/
